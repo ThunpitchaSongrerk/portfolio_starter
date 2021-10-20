@@ -1,29 +1,5 @@
 /* CSS files add styling rules to your content */
+
 h1 {
   color: green;
-  font-family: 'Dosis', sans-serif;
-  text-align: center;
-}
-
-img {
-  width: 400px;
-  border: double green 10px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 5px;
-  background-color: lightgreen;
-}
-
-li {
-  font-family: 'Dosis', sans-serif;
-}
-
-.first {
-  display: flex;
-  justify-content: space-around;
-}
-
-.second {
-  text-align: center;
 }
