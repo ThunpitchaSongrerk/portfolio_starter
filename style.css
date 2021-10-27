@@ -98,3 +98,8 @@ h1 {
   border: 5px inset #F694F4;
 }
 
+.contactInfo {
+  font-family: 'Cardo', serif;
+  font-size: 20px;
+}
+
